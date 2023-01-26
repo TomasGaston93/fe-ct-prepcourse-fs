@@ -5,7 +5,10 @@ function obtenerMayor(x, y) {
    // Retornar el número más grande.
    // Si son iguales, retornar cualquiera de los dos.
    // Tu código:
-}
+   function obtenerMayor (6,9)
+if 6<9} return 9
+else 6=9 return 9 or 6
+
 
 function mayoriaDeEdad(edad) {
    // Determinar si la persona puede ingresar al evento según su edad.
